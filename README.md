@@ -13,11 +13,11 @@ This is a Psycic game. User need to guess the random letter or number. If the gu
 </ul>
 Checkout:  https://pracharya2601.github.io/Psychic-Game/
 <hr>
-<div>
+<div align="center">
     <img src="assets/images/a.png" width="500px"> 
 </div>
 
-<div>
+<div align="center">
     <img src="assets/images/b.png" width="500px"> 
 </div>
 <hr>
