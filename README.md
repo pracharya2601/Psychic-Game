@@ -14,10 +14,10 @@ This is a Psycic game. User need to guess the random letter or number. If the gu
 Checkout:  https://pracharya2601.github.io/Psychic-Game/
 <hr>
 <div>
-    <img src="assets/b.png" width="500px"> 
+    <img src="assets/images/a.png" width="500px"> 
 </div>
 
 <div>
-    <img src="assets/a.png" width="500px"> 
+    <img src="assets/images/b.png" width="500px"> 
 </div>
 <hr>
