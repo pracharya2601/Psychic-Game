@@ -1,0 +1,24 @@
+.container  {
+    background-color: grey;
+    padding: 20vh 0 20vh 0;
+    text-align: center;
+}
+
+#game   {
+    padding: 10px;
+
+}
+
+#game > h1 {
+    padding: 10px;
+    border-bottom: 1px solid rgb(255, 255, 255, 0.1);
+
+}
+#game > h3 {
+    padding: 10px;
+    color: white;
+}
+
+div > * {
+    padding: 5px;
+}
